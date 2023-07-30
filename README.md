@@ -1,5 +1,4 @@
-Write a program that outputs to the console the new price of the product, including the discount,
-IF there is a discount:
+Write a program that outputs to the console the new price of the product, including the discount, IF there is a discount:
 
 1) Create a main function
 2) Create in main a variable, in which the console will write the cost of the goods
